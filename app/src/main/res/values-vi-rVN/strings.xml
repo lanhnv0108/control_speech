@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speech Control</string>
+    <string name="name_screen">Smart Voice</string>
+    <string name="btn_start">BẮT ĐẦU</string>
+    <string name="slogan">Cho bạn một trải nghiệm mới lạ</string>
+    <string name="welcome">Chào bạn !</string>
+    <string name="setting">Cài đặt</string>
+    <string name="mail">Mail</string>
+    <string name="yt">Youtube</string>
+    <string name="fb">Facebook</string>
+    <string name="tap">Chạm để nói</string>
+    <string name="sms">Tin Nhắn</string>
+    <string name="mess">Messenger</string>
+    <string name="call">Gọi điện</string>
+    <string name="ig">Instagram</string>
+    <string name="camera">Máy ảnh</string>
+</resources>
